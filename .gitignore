@@ -1,0 +1,4 @@
+node_modules
+local.js
+dist
+jwtRS256.*
